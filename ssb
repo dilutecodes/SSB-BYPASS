@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SO_PATH="$HOME/SSB-PASS/bypassb.cpython-312.so"
+SO_PATH="$HOME/SSB-BYPASS/bypassb.cpython-312.so"
 URL="https://raw.githubusercontent.com/dilutecodes/SSB-BYPASS/main/bypassb.cpython-312.so"
 
 mkdir -p "$HOME/SSB-BYPASS"
